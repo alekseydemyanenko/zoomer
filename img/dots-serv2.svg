@@ -1,0 +1,23 @@
+<svg width="119" height="23" viewBox="0 0 119 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f)">
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 4.56096 18.3359)" fill="#03EFE9"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 20.5483 18.3359)" fill="#03EFE9"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 36.5366 18.3359)" fill="#03EFE9"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 52.5239 18.3359)" fill="#03EFE9"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 68.5112 18.3359)" fill="#03EFE9"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 84.4994 18.3359)" fill="#03EFE9"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 34.5375 4.33594)" fill="#00C4F6"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 50.5258 4.33594)" fill="#00C4F6"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 66.5131 4.33594)" fill="#00C4F6"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 82.5004 4.33594)" fill="#00C4F6"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 98.4887 4.33594)" fill="#00C4F6"/>
+<ellipse rx="1.99846" ry="2" transform="matrix(1 0 0 -1 114.476 4.33594)" fill="#00C4F6"/>
+</g>
+<defs>
+<filter id="filter0_f" x="0.5625" y="0.335938" width="117.912" height="22" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="1" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>

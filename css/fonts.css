@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: 'SF UI  Text';
+  src: url('../fonts/SFUIText-Medium/SFUIText-Medium.woff2') format('woff2'),
+       url('../fonts/SFUIText-Medium/SFUIText-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+

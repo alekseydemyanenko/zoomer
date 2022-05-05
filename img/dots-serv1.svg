@@ -1,0 +1,23 @@
+<svg width="119" height="23" viewBox="0 0 119 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f)">
+<circle r="2" transform="matrix(1 0 0 -1 4.88477 18.1035)" fill="#B65EEA"/>
+<circle r="2" transform="matrix(1 0 0 -1 20.8848 18.1035)" fill="#B65EEA"/>
+<circle r="2" transform="matrix(1 0 0 -1 36.8848 18.1035)" fill="#B65EEA"/>
+<circle r="2" transform="matrix(1 0 0 -1 52.8848 18.1035)" fill="#B65EEA"/>
+<circle r="2" transform="matrix(1 0 0 -1 68.8848 18.1035)" fill="#B65EEA"/>
+<circle r="2" transform="matrix(1 0 0 -1 84.8848 18.1035)" fill="#B65EEA"/>
+<circle r="2" transform="matrix(1 0 0 -1 34.8848 4.10352)" fill="#CF64B5"/>
+<circle r="2" transform="matrix(1 0 0 -1 50.8848 4.10352)" fill="#CF64B5"/>
+<circle r="2" transform="matrix(1 0 0 -1 66.8848 4.10352)" fill="#CF64B5"/>
+<circle r="2" transform="matrix(1 0 0 -1 82.8848 4.10352)" fill="#CF64B5"/>
+<circle r="2" transform="matrix(1 0 0 -1 98.8848 4.10352)" fill="#CF64B5"/>
+<circle r="2" transform="matrix(1 0 0 -1 114.885 4.10352)" fill="#CF64B5"/>
+</g>
+<defs>
+<filter id="filter0_f" x="0.884766" y="0.103516" width="118" height="22" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="1" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>
